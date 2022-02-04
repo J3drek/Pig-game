@@ -1,2 +1,2 @@
 # Pig-game
-dice game called pig which i coded myself
+dice game called pig which I coded myself
