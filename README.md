@@ -1,2 +1,2 @@
 # Pig-game
-dice game called pig which I coded myself
+dice game called pig which I coded during JS course
